@@ -297,6 +297,8 @@ def main():
     # Запуск меню
     choose_action(filename)
 
+    # Коммент для проверки Git
+
 
 # Точка входа в программу
 main()
