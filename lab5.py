@@ -298,6 +298,7 @@ def main():
     choose_action(filename)
 
     # Коммент для проверки Git
+    # Коммент для feature ветки
 
 
 # Точка входа в программу
